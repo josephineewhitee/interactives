@@ -1,0 +1,26 @@
+body {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #FFEDDF
+  }
+  #content {
+    font-family:Futura
+  }
+  p {
+    font-size: 1.1em;
+    line-height: 1.3em;
+    padding-bottom: 20px
+  }
+  
+  @media (orientation: portrait) {
+    body {
+      padding-left: 5%;
+      padding-right: 5%;
+      width:100%;
+      background-color: #DFDFDF}
+    #contact {
+    font-size: .7em; 
+  }
+  }
+  
+  
